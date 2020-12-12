@@ -1,1 +1,1 @@
-<p style="padding-left:2rem;padding-right:2rem;align:center;">Blogs</p>
+<p style="padding-left:2rem;padding-right:2rem;align:center;background-color:red;">Blogs</p>
